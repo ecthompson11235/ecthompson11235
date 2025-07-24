@@ -1,9 +1,11 @@
-## Hello 👋, I'm Elise Thompson
+## Hello 👋🏾, I'm Elise Thompson
 
 ## About Me!
 
 ### Hobbies/Interests
-I love to read and garden. I especially enjoy reading about gardening. I love to learn about anything and everything, but math is my favorite subject.
+- I love to read and garden.
+- I especially enjoy reading about gardening (most often on [this website](https://www.almanac.com/)).
+- I love to learn about anything and everything, but math is my favorite subject.
 
 ### Education
 I'm currently a rising junior at The Bryn Mawr School.
